@@ -10,8 +10,8 @@ Please complete the following **mandatory** labs from the [KodeKloud Linux Labs 
 
 ## ✅ Mandatory Labs to Complete
 
-- **Linux Core Concepts 1**  
-- **Linux Core Concepts 2**  
+- **Linux Core Concepts 1**  ✅
+- **Linux Core Concepts 2**  ✅
 - **Linux Basic Commands 1**  
 - **Linux Basic Commands 2**  
 - **Linux Bash Prompt**  
